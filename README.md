@@ -2,20 +2,20 @@
 
 学习C++的语法练习代码
 
-Fuc_h_cpp 		.h文件+.cpp文件+main调用
-Split_string	字符串分割
-addptr			指针地址、值
-array_c			数组下标操作
-arraynew		数组名称等同指针操作
-hello			Hello C++
-if_no_define	条件编译
-init_ptr		指针初始化
-inlinetype		内联函数
-overload		函数重载
-pointer			指针地址、值操作
-ptrstr			字符串指针+strcpy()
-strtype2		字符串"+"拼接
-strtype3		字符数组strcpy() + 字符串strcat()
-strtype4		str.size() strlen() cin.getline() getline()
-use_new			new、delete指针
-split_string	字符串分割
+Fuc_h_cpp 		.h文件+.cpp文件+main调用	</br>
+Split_string	字符串分割	</br>
+addptr			指针地址、值	</br>
+array_c			数组下标操作	</br>
+arraynew		数组名称等同指针操作	</br>
+hello			Hello C++	</br>
+if_no_define	条件编译	</br>
+init_ptr		指针初始化	</br>
+inlinetype		内联函数	</br>
+overload		函数重载	</br>
+pointer			指针地址、值操作	</br>
+ptrstr			字符串指针+strcpy()	</br>
+strtype2		字符串"+"拼接	</br>
+strtype3		字符数组strcpy() + 字符串strcat()	</br>
+strtype4		str.size() strlen() cin.getline() getline()	</br>
+use_new			new、delete指针	</br>
+split_string	字符串分割	</br>
