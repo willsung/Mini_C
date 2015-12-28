@@ -19,3 +19,6 @@ strtype3		字符数组strcpy() + 字符串strcat()	</br>
 strtype4		str.size() strlen() cin.getline() getline()	</br>
 use_new			new、delete指针	</br>
 split_string	字符串分割	</br>
+express			表达式 cout.setf(ios_base::boolalpha)	</br>
+for_loop_factorials	for循环实现阶乘	</br>
+bigstep			for循环:指定步长	</br>
