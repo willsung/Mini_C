@@ -38,3 +38,4 @@ cctype			isdigit()/ischar()等类型判定方法	</br>
 cinfish			循环输入数字
 outfile			文件读写
 sumafile		文件读写
+in_out_file		输入10个数字并换行写入文件，文件名可手动输入
