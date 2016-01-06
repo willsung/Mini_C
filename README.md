@@ -37,3 +37,4 @@ textin4			cin.get()获取输入；cin.put(ch)实现输出	</br>
 cctype			isdigit()/ischar()等类型判定方法	</br>
 cinfish			循环输入数字
 outfile			文件读写
+sumafile		文件读写
