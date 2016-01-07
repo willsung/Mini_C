@@ -35,7 +35,9 @@ textin2			cin.get(ch)字符输入	</br>
 textin3			cin.fail()判断文本结尾	</br>
 textin4			cin.get()获取输入；cin.put(ch)实现输出	</br>
 cctype			isdigit()/ischar()等类型判定方法	</br>
-cinfish			循环输入数字
-outfile			文件读写
-sumafile		文件读写
-in_out_file		输入10个数字并换行写入文件，文件名可手动输入
+cinfish			循环输入数字	</br>
+outfile			文件读写		</br>
+sumafile		文件读写		</br>
+in_out_file		输入10个数字并换行写入文件，文件名可手动输入	</br>
+template_fun	函数模板
+template_class	类模板
