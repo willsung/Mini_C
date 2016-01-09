@@ -39,5 +39,7 @@ cinfish			循环输入数字	</br>
 outfile			文件读写		</br>
 sumafile		文件读写		</br>
 in_out_file		输入10个数字并换行写入文件，文件名可手动输入	</br>
-template_fun	函数模板
-template_class	类模板
+template_fun	函数模板	</br>
+template_class	类模板		</br>
+scope			作用域		</br>
+scope2			作用于		</br>
